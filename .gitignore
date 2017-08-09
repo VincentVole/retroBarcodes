@@ -40,4 +40,4 @@ yarn-error.log
 
 # System Files
 .DS_Store
-Thumbs.db
+Thumbs.db node_modules
